@@ -20,20 +20,16 @@ A structured internship repository documenting my journey of learning **Flutter*
 - [Contact](#contact)
 - [License](#license)
 
----
+```dart
+void main() {
+  print("Hello, Flutter!");
+}
+```
+[My Profile link](https://github.com/fazal-e-haq)
+[First Contributions Repository](https://github.com/firstcontributions/first-contributions)
 
-## 🧾 About
+ ## Images
+![Flutter Logo](https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png)
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
-This repository contains all tasks, assignments, and practical exercises completed during my Flutter Internship Batch **B01**.  
-It includes Dart programs, Git workflows, Flutter UI practice, and real-world development concepts.
-
----
-
-## ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/<your-username>/Flutter-Internship-B01.git
-cd Flutter-Internship-B01
 
