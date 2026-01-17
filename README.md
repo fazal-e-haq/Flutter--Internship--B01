@@ -1,4 +1,4 @@
- # 🚀 Flutter Internship – Batch B01
+ # 🚀 Flutter Internship – Batch B01 week 2
 
 ![Flutter](https://img.shields.io/badge/Flutter-Internship-blue?style=for-the-badge&logo=flutter)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
